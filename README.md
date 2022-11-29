@@ -6,6 +6,7 @@ git clone https://github.com/ViDucHung2006/HaKiToV1.2.0
 pip install pystyle
 pip install asciimatics
 cd HaKiToV1.2.0
+git pull
 python3 main.py
 ```
 # Username Lấy Tại
