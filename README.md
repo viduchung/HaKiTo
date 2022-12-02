@@ -7,7 +7,8 @@ pip install pystyle
 pip install asciimatics
 cd HaKiToV1.3.0
 git pull
-python3 main.py
+python setup.py
+python3 main_new.py
 ```
 # Username Lấy Tại
 ```sh
