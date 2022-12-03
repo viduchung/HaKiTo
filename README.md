@@ -1,5 +1,12 @@
-# Vẫn Đang Trong Quá Trình Nâng Cấp!!
-# Welcome To HaKiTo
+# New Update Methods
+```sh
+HTTP-GOV
+HTTP-FLOOD
+BROWSER
+TLS V2
+UPDATE PROXY!
+```
+# Welcome To HaKiToV1.3.0
 Không Được DDoS Website Chính Phủ<p align="center"><img src="https://i.imgur.com/kaQdEUB.jpg" width="300" height="250" alt="Script Tool"></p> 
 # Setup and Run
 ```sh
@@ -9,11 +16,11 @@ pip install asciimatics
 cd HaKiToV1.3.0
 git pull
 python setup.py
-python3 new_methods.py
+python3 main_new.py
 ```
 # Username Lấy Tại
 ```sh
-http://traffic1s.com/admin
+http://traffic1s.com/user
 ```
 # Group Telegram
 ```sh
