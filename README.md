@@ -16,7 +16,7 @@ pip install asciimatics
 cd HaKiToV1.3.0
 git pull
 python setup.py
-python3 methods_update.py
+python3 methods_baotri.py
 ```
 # Username Lấy Tại
 ```sh
