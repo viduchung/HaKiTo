@@ -16,11 +16,11 @@ pip install asciimatics
 cd HaKiToV1.3.0
 git pull
 python setup.py
-python3 new_methods.py
+python3 methods_update.py
 ```
 # Username Lấy Tại
 ```sh
-http://traffic1s.com/user
+https://mneylink.com/user
 ```
 # Group Telegram
 ```sh
