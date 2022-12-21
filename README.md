@@ -16,7 +16,7 @@ python3 main_new_v4.py
 ```
 # Username Lấy Tại
 ```sh
-https://mneylink.com/user
+https://www.hungtricker.xyz/p/username.html
 ```
 # Group Telegram
 ```sh
