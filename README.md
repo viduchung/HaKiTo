@@ -1,4 +1,4 @@
-# New Update Methods
+# Bao Tri Nang Cap V1.4.0
 ```sh
 HTTP-GOV
 HTTP-FLOOD
