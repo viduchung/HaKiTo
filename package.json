@@ -1,0 +1,28 @@
+{
+  "name": "Layer7-MultiBypass",
+  "version": "0.0.1",
+  "main": "method.js",
+  "author": "RootSec",
+  "contributors": [
+    {
+      "name": "RootSec",
+      "email": "microfix1252002@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "axios": "^1.1.3",
+    "cloudflare-bypasser": "^0.0.3",
+    "cloudscraper": "^4.6.0",
+    "cluster": "^0.7.7",
+    "events": "^3.3.0",
+    "fake-useragent": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "hcaptcha-solver": "^1.0.2",
+    "https-proxy-agent": "^5.0.1",
+    "net": "^1.0.2",
+    "randomstring": "^1.2.3",
+    "request": "^2.88.2",
+    "url": "^0.11.0"
+  }
+}
