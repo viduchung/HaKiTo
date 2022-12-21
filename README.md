@@ -1,22 +1,18 @@
-# Bao Tri Nang Cap V1.4.0
+# New Update HaKiTo V1.4.0
 ```sh
-HTTP-GOV
-HTTP-FLOOD
-BROWSER
-TLS V2
-UPDATE PROXY!
+Methods New
+Update Proxy
+Update Ua
 ```
-# Welcome To HaKiToV1.3.0
+# Welcome To HaKiToV1.4.0
 Không Được DDoS Website Chính Phủ<p align="center"><img src="https://i.imgur.com/kaQdEUB.jpg" width="300" height="250" alt="Script Tool"></p> 
 # Setup and Run
 ```sh
-git clone https://github.com/ViDucHung2006/HaKiToV1.3.0
-pip install pystyle
-pip install asciimatics
-cd HaKiToV1.3.0
+git clone https://github.com/ViDucHung2006/HaKiToV1.4.0
+cd HaKiToV1.4.0
 git pull
 python setup.py
-python3 methods_baotri.py
+python3 main_new_v4.py
 ```
 # Username Lấy Tại
 ```sh
@@ -30,12 +26,12 @@ t.me/vdh_group
 * BTC: bc1qefl0awk7pjsylc8pct7lf8ypkxwet5rdg8p470
 * Momo: 0359822840 <br>
 CTK: Vi Đức Hùng 
-* SHB: 0000190506 <br>
+* VP Bank: 42419052006 <br>
 CTK: VI DUC HUNG 
 # Developers
-* Vi Duc Hung
+* Vi Duc Hung X NxT
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ViDucHung2006/HaKiToV1.3.0hit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ViDucHung2006/HaKiToV1.4.0hit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 
